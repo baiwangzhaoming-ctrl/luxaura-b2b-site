@@ -8,7 +8,7 @@ export default function EditorialPreview() {
     },
     {
       title: "Minimalism in Light",
-      excerpt: "Deconstructing the LuxAura design philosophy: Why less is always more.",
+      excerpt: "Deconstructing the Luminsit design philosophy: Why less is always more.",
       image: "https://images.unsplash.com/photo-1518005020451-eba396a8e0ad?q=80&w=1200",
       tag: "Philosophy"
     }

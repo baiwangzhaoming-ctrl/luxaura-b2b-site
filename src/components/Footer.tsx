@@ -48,7 +48,7 @@ export default function Footer() {
 
         <div className="pt-12 border-t border-gray-50 flex flex-col md:flex-row justify-between items-center gap-8">
           <p className="text-[9px] uppercase tracking-[0.5em] font-light text-gray-400">
-            © 2024 LuxAura Engineering.
+            © 2024 Luminsit Engineering.
           </p>
           <div className="flex gap-8">
             {['Privacy', 'Terms', 'Certifications'].map(item => (

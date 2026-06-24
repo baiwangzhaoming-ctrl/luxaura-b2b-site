@@ -9,9 +9,9 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-4">
-          <img src="/images/logo.png" alt="LuxAura" className="h-8 w-auto" />
+          <img src="/images/logo.png" alt="Luminsit" className="h-8 w-auto" />
           <span className="text-xl font-light tracking-[0.3em] uppercase text-[#1D1D1F]">
-            LuxAura
+            Luminsit
           </span>
         </Link>
 

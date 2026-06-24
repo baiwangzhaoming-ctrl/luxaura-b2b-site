@@ -33,7 +33,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 ```bash
 git init
 git add .
-git commit -m "Initial commit: LuxAura B2B Site"
+git commit -m "Initial commit: Luminsit B2B Site"
 git remote add origin <your-repo-url>
 git branch -M main
 git push -u origin main
@@ -51,3 +51,4 @@ Connect your GitHub repo to Vercel and add the following Environment Variables f
 - `src/components`: Reusable UI components (Header, Hero, ProductCard).
 - `src/messages`: Translation files (JSON).
 - `src/lib`: Utility functions (S3/R2 client).
+

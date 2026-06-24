@@ -27,7 +27,7 @@ export default function ProjectsPage() {
       <Header />
       <main className="max-w-7xl mx-auto px-8 py-24">
         <h1 className="text-3xl font-extralight tracking-[0.3em] uppercase text-[#1D1D1F] mb-24 text-center">
-          LuxAura Global Projects
+          Luminsit Global Projects
         </h1>
         
         <div className="space-y-32">

@@ -52,7 +52,7 @@ export default function Index() {
         <section className="max-w-7xl mx-auto px-8 py-32">
           <div className="flex justify-between items-end mb-24 border-b border-gray-100 pb-8">
             <h2 className="text-[10px] uppercase tracking-[0.5em] font-medium text-[#1D1D1F]">
-              The LuxAura Collection
+              The Luminsit Collection
             </h2>
             <Link href="/en/projects" className="text-[10px] uppercase tracking-[0.2em] font-light text-gray-400 hover:text-[#1D1D1F] transition">
               Portfolio
