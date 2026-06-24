@@ -1,0 +1,18 @@
+{
+  "Header": {
+    "trade": "Trade & Projects"
+  },
+  "Hero": {
+    "title": "The Art of Intelligent Light",
+    "subtitle": "Precision-engineered smart floor lamps designed to elevate professional environments."
+  },
+  "Inquiry": {
+    "title": "Request a Quote"
+  },
+  "Index": {
+    "title": "Professional Smart Lighting Solutions for Modern Spaces",
+    "subtitle": "High-performance smart floor lamps designed for ergonomic workspace and home wellness.",
+    "cta": "Get a Quote",
+    "features": "Core Features"
+  }
+}
